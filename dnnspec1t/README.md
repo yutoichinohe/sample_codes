@@ -4,5 +4,5 @@ Sample codes for Y. Ichinohe et al. (2018).
 
 ## Files
 - run.py
--- Sample script for 7200-64-64-64-4 network training
--- `data_1t_1890.npz` is available [here](http://google.com)
+  - Sample script for 7200-64-64-64-4 network training
+  - `data_1t_1890.npz` is available [here](http://google.com)
