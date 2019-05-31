@@ -1,6 +1,7 @@
 # Neural network-based preprocessing to estimate the parameters of the X-ray emission of a single-temperature thermal plasma
 
-Sample codes for Ichinohe et al. (2018, arXiv:[1801.06015](http://arxiv.org/abs/1801.06015)).
+Sample codes for Ichinohe et al., MNRAS, 475, 4739, 2018, arXiv:[1801.06015](http://arxiv.org/abs/1801.06015)
+
 
 ## Files
 - run.py
