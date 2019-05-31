@@ -1,7 +1,5 @@
 # Neural network-based anomaly detection for high-resolution X-ray spectroscopy
 
-Sample codes for Ichinohe et al., MNRAS accepted arXiv:[]()
-
 ## Files
 - run.py
   - Sample script for Poisson-VAE network training
