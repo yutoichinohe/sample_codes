@@ -1,8 +1,6 @@
 # Neural network-based anomaly detection for high-resolution X-ray spectroscopy
 
-<!--
-Sample codes for Ichinohe et al., 2018, MNRAS, 475, 4739, arXiv:[1801.06015](http://arxiv.org/abs/1801.06015)
--->
+Sample codes for Ichinohe et al., MNRAS accepted arXiv:[]()
 
 ## Files
 - run.py
